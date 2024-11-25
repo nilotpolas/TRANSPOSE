@@ -1,4 +1,4 @@
-# psc_secure_rtl
+#TRANSPOSE
 The thesis centers around the exploration of enhanced information security within RTL (Register Transfer Level) designs
 
 Execution Steps:
