@@ -1,5 +1,5 @@
 #TRANSPOSE
-The thesis centers around the exploration of enhanced information security within RTL (Register Transfer Level) designs
+This tool automatically applies circuit transformations to insecure input rtl to output PSCA-secure RTL
 
 Execution Steps:
 ----------------
